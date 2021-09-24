@@ -1,0 +1,4 @@
+feiyu127:
+  mybatis:
+    log:
+      exec: true
